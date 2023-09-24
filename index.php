@@ -31,10 +31,10 @@
                 <h1>Muelle Pesquero "Manta"</h1>
                 <p>
                     Bienvenido al sistema de muelle pesquero de la ciudad de Manta en la siguiente página web
-                    encontraras información sobre los servicios que ofrecemos al sector persquero, el cual es
+                    encontraras información sobre los servicios que ofrecemos al sector pesquero, el cual es
                     una de las principales fuentes de ingreso de nuestra ciudad.    
                 </p>
-                <a href="#servicios" class="btn-1">informacion</a>
+                <a href="#servicios" class="btn-1">información</a>
             </div>
             <div class="header-img">
                 <img src="images/img1.png" alt="">
